@@ -1,0 +1,3 @@
+# Zsh plugins
+
+Some https://www.zsh.org/[Zsh] plugins to be used by plugin managers like https://getantibody.github.io/[Antibody].

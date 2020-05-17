@@ -1,0 +1,5 @@
+# history-pattern-search
+
+Search the history by using glob pattern.
+
+Replaces the default history bindings with `history-pattern-search`.
