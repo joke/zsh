@@ -1,3 +1,3 @@
-# completion-ignore-parents
+= completion-ignore-parents
 
 Ignore the parents in completion.

@@ -1,0 +1,9 @@
+= autoupdate-antibody
+
+Automatically update link:https://github.com/getantibody/antibody[Antibody] bundles.
+
+== Options
+
+`AUTOUPDATE_ANTIBODY_DAYS`: default 7 days.
+
+`AUTOUPDATE_ANTIBODY_RESTART`: set to `true`. default false. restart the current shell by calling `exec`.

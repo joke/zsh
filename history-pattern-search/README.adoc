@@ -1,4 +1,4 @@
-# history-pattern-search
+= history-pattern-search
 
 Search the history by using glob pattern.
 
