@@ -1,0 +1,28 @@
+= zmv
+
+The plugin loads https://zsh.sourceforge.io/Doc/Release/User-Contributions.html#Other-Functions[`zmv`].
+
+.Aliases
+|===
+|Alias
+|Command
+
+|zcp
+|noglob zmv -C
+
+|zln
+|noglob zmv -L
+
+|zlns
+|noglob zmv -Ls
+
+|zmv
+|noglob zmv
+|===
+
+
+
+
+
+
+
